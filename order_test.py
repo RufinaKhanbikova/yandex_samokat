@@ -1,7 +1,11 @@
 import order_request
 import data
 
+
+# Ханбикова Руфина, 22-ая когорта - Финальный проект. Инженер по тестированию плюс
+
 def test_get_order_data_success_response():
+
     create_order_response = order_request.post_new_order(data.order_body)
     assert create_order_response.status_code == 201
 

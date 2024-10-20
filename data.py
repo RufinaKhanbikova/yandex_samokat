@@ -3,14 +3,14 @@ headers = {
 }
 
 order_body = {
-    "firstName": "Абдул",
-    "lastName": "Убдурахмангаджи",
+    "firstName": "Василиса",
+    "lastName": "Гитовна",
     "address": "Центральный проезд Хорошёвского Серебряного Бора 2",
     "metroStation": 204,
     "phone": "+34916123451",
     "rentTime": 5,
-    "deliveryDate": "2024-10-18",
-    "comment": "Привет, Абдурахмангаджи!",
+    "deliveryDate": "2024-10-22",
+    "comment": "Привет, Василиса!",
     "color": ["BLACK"]
 }
 
