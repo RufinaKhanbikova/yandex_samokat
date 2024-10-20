@@ -1,0 +1,16 @@
+headers = {
+    "Content-Type": "application/json"
+}
+
+order_body = {
+    "firstName": "Абдул",
+    "lastName": "Убдурахмангаджи",
+    "address": "Центральный проезд Хорошёвского Серебряного Бора 2",
+    "metroStation": 204,
+    "phone": "+34916123451",
+    "rentTime": 5,
+    "deliveryDate": "2024-10-18",
+    "comment": "Привет, Абдурахмангаджи!",
+    "color": ["BLACK"]
+}
+
